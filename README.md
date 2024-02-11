@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**DevKendrySoto/DevKendrySoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Kendry R. Soto
 
-Here are some ideas to get you started:
+<img width="1494" alt="Captura de pantalla 2024-02-11 a la(s) 12 35 57 p m" src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/b526be29-de50-4fb5-9279-ab061db5ba0a">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Sobre mí
+- 💻 Apasionado por la tecnología y el diseño.
+- 🚀 Comprometido con la mejora continua.
+- 🌟 Experiencia en JavaScript, Angular y Next.js.
+- 🎵 Amante de la música y la batería.
+
+## Tecnologias
+
+<div align="center">
+  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/f5620fbc-31eb-4600-b233-3cd6457dcc99" width="80" height="100">
+  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/9877873f-23e1-4186-85ce-6689d3c1be8e" width="200" height="100">
+  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/f7e3b66c-ab8f-46f4-9561-0df13f58a5cd" width="150" height="100">
+  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/c578987f-10e5-4d55-969d-62c4a602bced" width="110" height="100">
+  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/ef02fbdd-f167-45b1-b8b1-3f61bf5c4158" width="150" height="100">
+</div>
+

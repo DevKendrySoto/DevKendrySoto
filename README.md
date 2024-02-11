@@ -2,7 +2,8 @@
 
 # 👋 Hola, soy Kendry R. Soto
 
-<img width="1494" alt="Captura de pantalla 2024-02-11 a la(s) 12 35 57 p m" src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/b526be29-de50-4fb5-9279-ab061db5ba0a">
+<img width="1494" alt="Captura de pantalla 2024-02-11 a la(s) 1 08 57 p m" src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/b22e0064-a4cf-4b8c-9603-9db346347e80">
+
 
 </div>
 

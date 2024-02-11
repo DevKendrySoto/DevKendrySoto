@@ -1,4 +1,4 @@
-Translate this to English: <div align="center">
+<div align="center">
 
 # 👋 Hello, I'm Kendry R. Soto
 

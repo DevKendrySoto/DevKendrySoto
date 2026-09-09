@@ -2,36 +2,105 @@
 
 # 👋 Hello, I'm Kendry R. Soto
 
-<img width="1494" alt="Screenshot 2024-02-11 at 1:08:57 PM" src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/b22e0064-a4cf-4b8c-9603-9db346347e80">
+### Software Developer | Backend & Full-Stack
 
+Building reliable software, learning continuously, and turning ideas into practical solutions.
+
+<p>
+  <a href="https://github.com/DevKendrySoto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kendry-soto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 </div>
 
-## About Me
-- 💻 Passionate about technology and design.
-- Software Developer with 3+ years of experience building modern, scalable web applications, with a strong frontend focus and a solid backend foundation. Specialized in React, Next.js, and TypeScript, API integrations, and headless CMS solutions, with a strong emphasis on performance, maintainability, and user experience. Actively involved in technical decision-making, code reviews, and close collaboration with product and design teams to deliver business-driven solutions.
+---
 
-## Technologies
-### Frontend
-<div align="center">
-  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/9877873f-23e1-4186-85ce-6689d3c1be8e" width="200" height="100">
-  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/f7e3b66c-ab8f-46f4-9561-0df13f58a5cd" width="150" height="100">
-  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/c578987f-10e5-4d55-969d-62c4a602bced" width="110" height="100">
-  <img src="https://github.com/DevKendrySoto/DevKendrySoto/assets/137558067/ef02fbdd-f167-45b1-b8b1-3f61bf5c4158" width="150" height="100">
-</div>
+## 👨‍💻 About Me
+
+I'm a Software Developer with 3+ years of experience building web applications and backend systems.
+
+My current focus is **backend development**, working with TypeScript, Node.js, APIs, databases, and software architecture. I also have a strong frontend background, which helps me understand the complete product and build better solutions across the stack.
+
+I enjoy solving problems, improving existing systems, and writing code that is easy to understand, maintain, and evolve.
+
+* 💻 Focused on backend and full-stack development.
+* 🏗️ Interested in software architecture and scalable systems.
+* 🧠 Passionate about learning new technologies and improving my skills.
+* 🗄️ Enjoy working with APIs, databases, and business logic.
+* 🤝 Value teamwork, code quality, and continuous improvement.
+* 🌎 Based in the Dominican Republic.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/086ebd43-a8bc-46f1-a62d-e5eb15bcaf1b" width="150" height="100">
-  <img src="https://github.com/user-attachments/assets/e4421e22-e72a-4d6c-96d1-419df407cb80" width="120" height="110">
-  <img src="https://github.com/user-attachments/assets/af864673-04eb-4133-9740-d79969967790" width="150" height="100">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,python" alt="Backend technologies">
+
 </div>
 
-### Data Base
+### Frontend
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/df8ca991-5275-40eb-b0ac-73ed8707b66e" width="110" height="100">
-  <img src="https://github.com/user-attachments/assets/be881d45-8d19-4f77-ac2e-9186ecbf7d4d" width="150" height="100">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js" alt="Frontend technologies">
+
 </div>
 
+### Databases & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,gcp" alt="Database and cloud technologies">
+
+</div>
+
+### Tools & Practices
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Tools and practices">
+
+</div>
+
+---
+
+## 🎯 What I Enjoy
+
+* Building backend services and APIs.
+* Designing maintainable software.
+* Working with databases and data modeling.
+* Solving technical problems.
+* Learning about software architecture.
+* Collaborating with other developers.
+* Improving code quality and development practices.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevKendrySoto&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" alt="GitHub stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKendrySoto&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages">
+
+</div>
+
+---
+
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
 
 

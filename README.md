@@ -84,18 +84,6 @@ I enjoy solving problems, improving existing systems, and writing code that is e
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevKendrySoto&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" alt="GitHub stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKendrySoto&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages">
-
-</div>
-
----
-
 
 <div align="center">
 
